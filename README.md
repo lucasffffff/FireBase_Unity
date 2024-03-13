@@ -32,7 +32,7 @@ Jugadores
   |- idJugador
   |   |- Puntos: ...
   |   |- Record: ...
-  |   |- nombre: "Mi dispositivo"
+  |   |- nombre: "x"
   |   |- posicion: [0, 0.5, 0]
 ```
 
